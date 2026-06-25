@@ -12,11 +12,12 @@ built in Excel.
 - **Key feature:** Statements are fully linked - the balance sheet balances
   automatically with no plugs
 
-<img width="1132" height="442" alt="image" src="https://github.com/user-attachments/assets/8a234db8-f21c-4b65-94bd-5df29bfea10f" />
-<img width="1132" height="389" alt="image" src="https://github.com/user-attachments/assets/1fc9ed94-dba1-42f8-ac89-57fd1f30d57f" />
-<img width="1139" height="222" alt="image" src="https://github.com/user-attachments/assets/6987d9d2-57a9-44ff-b72c-1fa5213a9379" />
-<img width="1145" height="698" alt="image" src="https://github.com/user-attachments/assets/e549460e-ed79-4f15-ba4c-49d4fe46afe9" />
-<img width="1141" height="622" alt="image" src="https://github.com/user-attachments/assets/452c9f74-6e3e-4610-ab00-14bfd37c9581" />
+<img width="1111" height="439" alt="image" src="https://github.com/user-attachments/assets/ed9691f5-1430-4a01-bf78-a76459263460" />
+<img width="1139" height="397" alt="image" src="https://github.com/user-attachments/assets/13d5a399-79d8-4a34-924b-7a043aecb0c7" />
+<img width="1114" height="215" alt="image" src="https://github.com/user-attachments/assets/fb13b7cc-0549-4982-a316-8500113f465c" />
+<img width="1118" height="708" alt="image" src="https://github.com/user-attachments/assets/eb4706ec-5390-4a09-97ed-bbba737f8038" />
+<img width="1118" height="623" alt="image" src="https://github.com/user-attachments/assets/b669a9e6-9e34-40f3-adba-fe5168520994" />
+
 
 
 
