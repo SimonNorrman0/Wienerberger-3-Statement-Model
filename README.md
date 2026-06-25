@@ -7,7 +7,7 @@ built in Excel.
 ## Summary
 - **Statements:** Fully integrated Income Statement, Balance Sheet, and
   Cash Flow Statement
-- **Historicals:** 5 years (2021–2025) from reported consolidated accounts
+- **Historicals:** 5 years (2021-2025) from reported consolidated accounts
 - **Projections:** Forward years driven by a small set of operating assumptions
 - **Key feature:** Statements are fully linked - the balance sheet balances
   automatically with no plugs
