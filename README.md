@@ -1,4 +1,4 @@
-# Wienerberger AG — Integrated Three-Statement Model
+# Wienerberger AG - Integrated Three-Statement Model
 
 A fully linked three-statement financial model of Wienerberger AG
 (Vienna Stock Exchange: WIE), the European building-materials group,
