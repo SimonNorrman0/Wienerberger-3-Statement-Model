@@ -41,5 +41,4 @@ built in Excel.
 - Debt schedule and interest
 
 ## Notes
-Independent educational project based on public filings. Not investment advice.
-Figures are author estimates and approximations; verify against primary sources.
+Independent educational project based on public filings. Not investment advice at all :)
